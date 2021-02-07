@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class LandingComponent implements OnInit {
 
-  images: string[] = ['../../assets/images/avatar.png', '../../assets/images/avatar2.png','../../assets/images/avatar3.png','../../assets/images/avatar4.png', '../../assets/images/avatar5.png'];
+  images: string[] = ['../../assets/images/avatar.png', '../../assets/images/avatar2.png','../../assets/images/avatar3.png','../../assets/images/avatar4.png','../../assets/images/avatar5.png','../../assets/images/avatar6.png'];
 
   backgroundImage: string = '';
 
@@ -20,6 +20,3 @@ export class LandingComponent implements OnInit {
   }
 
 }
-
-
-
